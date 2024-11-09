@@ -23,9 +23,6 @@ coverage/
 # dotenv environment variables file
 .env
 
-# npm package lock file
-package-lock.json
-
 # Build output
 build/
 dist/
